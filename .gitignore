@@ -1,0 +1,45 @@
+# Ignore VSCode workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Node or Python related (in case of scripts or tools)
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Backup files
+*.old
+*.orig
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Generated PDFs or docs (optional — remove if you want to track these)
+*.pdf
+*.docx
+*.xlsx
+
+# System trash or recycled bin files
+.Trashes
+.Recycle.Bin/
+
+# Optional: Ignore personal notes or scratch files
+notes/
+scratchpad.md
