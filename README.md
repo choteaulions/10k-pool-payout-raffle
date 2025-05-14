@@ -19,10 +19,10 @@ Ticket Sales Open: Memorial Day Weekend 2025
 ## Purpose of This Repository
 
 This repository is used to:
-	•	Provide transparency for the raffle’s publicly shareable information
-	•	Track promotional materials and announcements
-	•	Store templates and non-sensitive documentation
-	•	Log publicly available statistics (ticket sales milestones, winner announcements, etc.)
+- Provide transparency for the raffle’s publicly shareable information
+- Track promotional materials and announcements
+- Store templates and non-sensitive documentation
+- Log publicly available statistics (ticket sales milestones, winner announcements, etc.)
 
 > Note: All private data, including purchaser details and financial records, are maintained securely outside of this repository.
 
